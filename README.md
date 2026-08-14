@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🚀 Quick acess
 - 🌐 **Portfólio Online:** [Acess my site](https://deuteragonistDev.github.io/MyPortfolio/)
 - 💼 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/joão-paulo-alves-campos-b67429274?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- ✉️ **E-mail:** [João Paulo](joaopaulo080406@gmail.com)
+- ✉️ **E-mail:** [joaopaulo080406@gmail.com](mailto:joaopaulo080406@gmail.com)  
 
 ---
 
