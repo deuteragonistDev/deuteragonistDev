@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there, I'm João 👋
 
 > 🎓 Computer Science Student | Software Developer   
-> 🇧🇷 Preferred language : Pt-br (portuguese) | En-us  
+> 🇧🇷 Preferred language : Pt-br | En-us  
 > Ex GATOROXO846(this account has been banned from github, IDK why :/)
 ---
 
