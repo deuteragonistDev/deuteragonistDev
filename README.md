@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 
 # Hi there, I'm João 👋
 
-> 🎓 Computer Science Student | Software Developer  
+> 🎓 Computer Science Student | Software Developer   
+> 🇧🇷 Preferred language : Pt-br (portuguese) | En-us  
 > Ex GATOROXO846(this account has been banned from github, IDK why :/)
 ---
 
-### 🚀 Acessos Rápidos
-- 🌐 **Portfólio Online:** [Acesse meu site](https://deuteragonistDev.github.io/MyPortfolio/)
-- 💼 **LinkedIn:** [Meu LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/joão-paulo-alves-campos-b67429274?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+### 🚀 Quick acess
+- 🌐 **Portfólio Online:** [Acess my site](https://deuteragonistDev.github.io/MyPortfolio/)
+- 💼 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/joão-paulo-alves-campos-b67429274?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - ✉️ **E-mail:** [João Paulo](joaopaulo080406@gmail.com)
 
 ---
 
-### 🛠️ Stacks & Ferramentas
+### 🛠️ Stacks and tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
